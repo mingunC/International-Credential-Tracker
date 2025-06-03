@@ -277,10 +277,6 @@ const loginResponse = await fetch('/api/auth/login', {
 ![Dashboard](./screenshots/dashboard.png)
 *Personalized dashboard showing user information and account status*
 
-### Login Interface
-![Login](./screenshots/login.png)
-*Secure login form with password visibility toggle*
-
 ## 🔧 Development
 
 ### Code Style & Standards
@@ -396,16 +392,6 @@ We welcome contributions! Please follow these steps:
 - Update documentation as needed
 - Ensure all tests pass before submitting
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Team
-
-- **Lead Developer**: [Your Name](https://github.com/yourusername)
-- **UI/UX Design**: Modern, accessible interface design
-- **Backend Architecture**: Scalable Node.js API with PostgreSQL
-
 ## 🙏 Acknowledgments
 
 - **World Education Services (WES)** - Inspiration for the credential evaluation concept
@@ -417,11 +403,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**[⬆ Back to Top](#-wes-credential-portal)**
 
-Made with ❤️ for international students and professionals
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/wes-credential-portal?style=social)](https://github.com/yourusername/wes-credential-portal)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/wes-credential-portal?style=social)](https://github.com/yourusername/wes-credential-portal)
 
 </div>
