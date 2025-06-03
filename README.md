@@ -25,6 +25,13 @@
 
 The WES Credential Portal is a modern web application inspired by World Education Services (WES), designed to help international students and professionals get their academic credentials evaluated for use in Canada and the United States. This project demonstrates a complete full-stack development workflow with authentication, database management, and responsive UI design.
 
+## 📱 Screenshots
+
+| Figure 1. Home Page | Figure 2. Registration Form | Figure 3. User Dashboard |
+|:--:|:--:|:--:|
+| <img src="https://github.com/user-attachments/assets/d07f6e8c-701a-45bf-a64f-fb4f9f08892c" alt="Home Page" width="400" /><br><em>Clean, professional landing page with clear call-to-action buttons</em> | <img src="https://github.com/user-attachments/assets/1dac5fca-b7ad-4519-8391-e40296321438" alt="Registration Form" width="400" /><br><em>Comprehensive registration form with real-time validation</em> | <img src="https://github.com/user-attachments/assets/6db660e1-e5bc-4ff4-bdb2-9fb0757bafbc" alt="User Dashboard" width="400" /><br><em>Personalized dashboard showing user information and account status</em> |
+
+
 ### 🎯 Project Goals
 
 - **Industry-Ready Code**: Following best practices for production-ready applications
@@ -262,10 +269,8 @@ const loginResponse = await fetch('/api/auth/login', {
   })
 });
 ```
-<img width="1728" alt="Image" src="" />
-<img width="1722" alt="Image" src="" />
-<img width="1728" alt="Image" src="" />
-## 📱 Screenshots
+
+| <img src="./images/project3_graph.png" alt="Project 3 Graph View" width="400" /><br><em>Graph view of task dependencies</em> | <img src="./images/project3_calender.png" alt="Project 3 Calender View" width="400" /><br><em>Gantt view of task schedule and duration</em> |
 
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/d07f6e8c-701a-45bf-a64f-fb4f9f08892c)
