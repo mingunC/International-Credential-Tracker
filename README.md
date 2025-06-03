@@ -262,19 +262,21 @@ const loginResponse = await fetch('/api/auth/login', {
   })
 });
 ```
-
+<img width="1728" alt="Image" src="" />
+<img width="1722" alt="Image" src="" />
+<img width="1728" alt="Image" src="" />
 ## 📱 Screenshots
 
 ### Home Page
-![Home Page](./screenshots/homepage.png)
+![Home Page](https://github.com/user-attachments/assets/d07f6e8c-701a-45bf-a64f-fb4f9f08892c)
 *Clean, professional landing page with clear call-to-action buttons*
 
 ### Registration Form
-![Registration](./screenshots/registration.png)
+![Registration](https://github.com/user-attachments/assets/1dac5fca-b7ad-4519-8391-e40296321438)
 *Comprehensive registration form with real-time validation*
 
 ### User Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/6db660e1-e5bc-4ff4-bdb2-9fb0757bafbc)
 *Personalized dashboard showing user information and account status*
 
 ## 🔧 Development
