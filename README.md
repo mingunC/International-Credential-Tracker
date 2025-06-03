@@ -268,21 +268,7 @@ const loginResponse = await fetch('/api/auth/login', {
     password: 'SecurePassword123'
   })
 });
-```
-
-| <img src="./images/project3_graph.png" alt="Project 3 Graph View" width="400" /><br><em>Graph view of task dependencies</em> | <img src="./images/project3_calender.png" alt="Project 3 Calender View" width="400" /><br><em>Gantt view of task schedule and duration</em> |
-
-### Home Page
-![Home Page](https://github.com/user-attachments/assets/d07f6e8c-701a-45bf-a64f-fb4f9f08892c)
-*Clean, professional landing page with clear call-to-action buttons*
-
-### Registration Form
-![Registration](https://github.com/user-attachments/assets/1dac5fca-b7ad-4519-8391-e40296321438)
-*Comprehensive registration form with real-time validation*
-
-### User Dashboard
-![Dashboard](https://github.com/user-attachments/assets/6db660e1-e5bc-4ff4-bdb2-9fb0757bafbc)
-*Personalized dashboard showing user information and account status*
+``
 
 ## 🔧 Development
 
